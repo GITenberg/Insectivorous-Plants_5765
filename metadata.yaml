@@ -1,0 +1,30 @@
+_repo: Insectivorous-Plants_5765
+creator:
+  author:
+    agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: In this 1875 publication, Darwin details the multitude of experiments
+  he conducted, along with many friends, colleagues, and his sons, on carnivorous
+  plants with a special focus on the feeding mechanisms and the adaptations that enabled
+  the plants to survive. This study of feeding flies to plants includes illustrations
+  from Darwin and his sons.
+gutenberg_bookshelf: Botany
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plants -- Assimilation'
+- !lcsh 'Carnivorous plants'
+- !lcc 'QK'
+title: Insectivorous Plants
+url: http://www.gutenberg.org/ebooks/5765
