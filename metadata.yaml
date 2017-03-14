@@ -1,5 +1,8 @@
 _repo: Insectivorous-Plants_5765
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Darwin, Charles
@@ -14,6 +17,8 @@ description: In this 1875 publication, Darwin details the multitude of experimen
   plants with a special focus on the feeding mechanisms and the adaptations that enabled
   the plants to survive. This study of feeding flies to plants includes illustrations
   from Darwin and his sons.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5765#Insectivorous-Plants
 gutenberg_bookshelf: Botany
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
